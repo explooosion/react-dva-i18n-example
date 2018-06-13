@@ -4,7 +4,7 @@
 ## Installation
 
 ```bash
-git cloen https://github.com/explooosion/react-dva-i18n-example.git
+git clone https://github.com/explooosion/react-dva-i18n-example.git
 ```
 
 ```bash
