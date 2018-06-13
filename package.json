@@ -1,0 +1,50 @@
+{
+  "name": "react-dva-i18n-example",
+  "description": "🚀 An i18n project example based on react.js created by dvajs.",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "roadhog server",
+    "build": "roadhog build",
+    "lint": "eslint --ext .js src test",
+    "precommit": "npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/explooosion/react-dva-i18n-example"
+  },
+  "author": {
+    "name": "Robby",
+    "email": "ta7382@gmail.com"
+  },
+  "keywords": [
+    "react",
+    "dva",
+    "i18n",
+    "intl"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/explooosion/react-dva-i18n-example",
+  "bugs": {
+    "url": "https://github.com/explooosion/react-dva-i18n-example/issues"
+  },
+  "dependencies": {
+    "dva": "^2.3.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-intl": "^2.4.0"
+  },
+  "devDependencies": {
+    "babel-plugin-dva-hmr": "^0.3.2",
+    "eslint": "^4.14.0",
+    "eslint-config-umi": "^0.1.1",
+    "eslint-plugin-flowtype": "^2.34.1",
+    "eslint-plugin-import": "^2.6.0",
+    "eslint-plugin-jsx-a11y": "^5.1.1",
+    "eslint-plugin-react": "^7.1.0",
+    "husky": "^0.12.0",
+    "node-sass": "^4.9.0",
+    "redbox-react": "^1.4.3",
+    "roadhog": "^2.0.0",
+    "sass-loader": "^7.0.3"
+  }
+}
